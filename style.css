@@ -1,0 +1,31 @@
+#parent{height: 480px;}
+
+#images{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4)
+}
+
+#text-p{
+    margin-top: 140px;
+}
+
+
+}
+#icon{
+    height: 180px;
+    background: #d3dae1;
+}
+
+#card :hover{
+    transform: scale(0.9)
+}
+
+#card{
+    transition: 0.8s ease;
+}
+
+
+span{
+    color: #oa66c5;
+}
